@@ -1,4 +1,4 @@
-# ML
+# Data Science
 ML Exercises
 
 I have tried applying basic ML algorithms to readily available datasets supported by Python3.0
